@@ -76,3 +76,9 @@ Further documentation and project files will be added as they are prepared.
 Tasleem Begum
 
 GitHub: https://github.com/Tasleem-glitch
+
+## Project Files
+
+- [Original Dataset – Sample Superstore CSV](SampleSuperstore.csv)
+- [Retail Sales Analysis and Dashboard – Excel Workbook](Invoqe_Retail_EDA_Dashboard.xlsx)
+- 
