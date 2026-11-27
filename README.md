@@ -47,6 +47,7 @@ Completed as part of the Invoqe Data Analyst Internship using Google Sheets on a
 
 ## Dashboard Visualizations
 ![Retail Sales Dashboard](Screenshot_2026-11-27-17-43-59-90_f90b96e7af3c5a594eb0c92de7fc5fe1.jpg)
+![Retail Sales Dashboard - Business Insights](Screenshot_2026-11-27-17-57-30-43_f90b96e7af3c5a594eb0c92de7fc5fe1.jpg)
 Five column charts:
 
 1. Sales by Category
